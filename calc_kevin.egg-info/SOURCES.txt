@@ -1,9 +1,10 @@
 README.md
 setup.py
-building_python_package/__init__.py
-building_python_package/calc_kevin/__init__.py
-building_python_package/calc_kevin/calc_kevin.py
 calc_kevin.egg-info/PKG-INFO
 calc_kevin.egg-info/SOURCES.txt
 calc_kevin.egg-info/dependency_links.txt
 calc_kevin.egg-info/top_level.txt
+project/__init__.py
+project/calc.py
+project/calc_kevin/__init__.py
+project/calc_kevin/calc_kevin.py

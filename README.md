@@ -15,8 +15,15 @@ pip install calc_kevin
 ## Usage
 
 ```python
-from calc_kevin import Calculator 
-print(Calculator.sum(1, 1))
+from project.calc import *
+ 
+sum(1, 11)
+sub(1, 10)
+mul(2, 12)
+div(34, 2)
+exp(10, 2)
+root(4, 2)
+
 ```
 
 ## Author
