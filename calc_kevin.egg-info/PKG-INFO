@@ -1,12 +1,13 @@
 Metadata-Version: 2.1
 Name: calc-kevin
 Version: 0.0.1
-Summary: Simple calculator
-Home-page: https://github.com/kevingtxz/building_python_package
+Summary: Projeto para bootcamp da DIO, calculadora simples
+Home-page: https://github.com/Kevingtxz/Building-Python-Package
 Author: Kevin Gonçalves
 Author-email: kevingtxz@gmail.com
 License: UNKNOWN
 Platform: UNKNOWN
+Requires-Python: >=3.9
 Description-Content-Type: text/markdown
 
 # Building Python Package
