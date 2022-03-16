@@ -7,8 +7,8 @@ with open("README.md", "r") as f:
 #     requirements = f.read().splitlines()
 
 setup(
-    name="calc_kevin",
-    version="0.0.1",
+    name="calculadora_kevin",
+    version="0.0.2",
     author="Kevin Gonçalves",
     author_email="kevingtxz@gmail.com",
     description="Projeto para bootcamp da DIO, calculadora simples",
